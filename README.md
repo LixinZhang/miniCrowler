@@ -1,6 +1,6 @@
 #MiniCrawler
 * MiniCrawler is a simple web crawler implemented by Python.
-* Threadtool tech is used to speed up fetching pages.
+* Threadpool tech is used to speed up fetching pages.
 
 * One can config the crawler through modify the file <code>config.py</code>.
 And start the crawling job using <code>python run.py</code>.
